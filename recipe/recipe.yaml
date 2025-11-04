@@ -1,6 +1,6 @@
 context:
   name: essdiffraction
-  version: "25.10.0"
+  version: "25.11.0"
   python_min: "3.11"
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/essdiffraction-${{ version }}.tar.gz
-  sha256: 78a30c5f0e1d6f08e7a3a1dad9ba0874ad1fadf6fb3db652ddf17e81e8a2af98
+  sha256: 4268a431712bf899a05ebf25c82397ea6459d826f75a22d0f5cc4f54f6656df3
 
 build:
   number: 0
