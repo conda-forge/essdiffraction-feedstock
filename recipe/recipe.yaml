@@ -27,6 +27,7 @@ requirements:
     - dask-core >=2022.1.0
     - essreduce >=25.11.0
     - python-graphviz
+    - ncrystal-extra >=4.1.0
     - numpy >=1.25
     - plopp >=25.07.0
     - pythreejs >=2.4.1
