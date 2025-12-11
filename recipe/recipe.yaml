@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/essdiffraction-${{ version }}.tar.gz
-  sha256: 1bf3ebf63032aa59f216dfec282b16a07b0d26f3bffefd1a06e1d6923ca45880
+  sha256: 6d9d276748c24a8f4d33c843c201dd7ebc55db9c23a9ad857769827ca07d5657
 
 build:
   number: 0
