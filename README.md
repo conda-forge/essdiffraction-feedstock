@@ -147,6 +147,3 @@ Feedstock Maintainers
 * [@MridulS](https://github.com/MridulS/)
 * [@conda-forge/scipp](https://github.com/orgs/conda-forge/teams/scipp/)
 
-
-<!-- dummy commit to enable rerendering -->
-
