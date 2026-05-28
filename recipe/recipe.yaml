@@ -1,6 +1,6 @@
 context:
   name: essdiffraction
-  version: "26.5.1"
+  version: "26.5.2"
   python_min: "3.11"
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/essdiffraction-${{ version }}.tar.gz
-  sha256: a969d7afab588f805d74aa805caf80ee3efe3076c82715bbb1401290fa52ce7e
+  sha256: 3c2974c92c176665c93c425484075de28086e5426387d518e3c5acfc5aac5599
 
 build:
   number: 0
@@ -49,8 +49,8 @@ about:
   summary: Diffraction data reduction for the European Spallation Source
   license: BSD-3-Clause
   license_file: LICENSE
-  repository: https://github.com/scipp/essdiffraction
-  homepage: https://scipp.github.io/essdiffraction/
+  repository: https://github.com/scipp/ess/tree/main/packages/essdiffraction
+  homepage: https://scipp.github.io/ess/diffraction/
 
 extra:
   recipe-maintainers:
