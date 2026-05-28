@@ -49,8 +49,8 @@ about:
   summary: Diffraction data reduction for the European Spallation Source
   license: BSD-3-Clause
   license_file: LICENSE
-  repository: https://github.com/scipp/essdiffraction
-  homepage: https://scipp.github.io/essdiffraction/
+  repository: https://github.com/scipp/ess/tree/main/packages/essdiffraction
+  homepage: https://scipp.github.io/ess/diffraction/
 
 extra:
   recipe-maintainers:
