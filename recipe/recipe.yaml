@@ -1,6 +1,6 @@
 context:
   name: essdiffraction
-  version: "26.5.2"
+  version: "26.6.0"
   python_min: "3.11"
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/essdiffraction-${{ version }}.tar.gz
-  sha256: 3c2974c92c176665c93c425484075de28086e5426387d518e3c5acfc5aac5599
+  sha256: 9364a8a633baca0bf2c27fc5c419e0769098720d25852f849762ef0579ebca1e
 
 build:
   number: 0
@@ -25,7 +25,7 @@ requirements:
   run:
     - python >=${{ python_min }}
     - dask-core >=2022.1.0
-    - essreduce >=26.4.0
+    - essreduce >=26.6.0
     - python-graphviz
     - numpy >=2
     - plopp >=26.2.0

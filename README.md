@@ -3,13 +3,13 @@ About essdiffraction-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/essdiffraction-feedstock/blob/main/LICENSE.txt)
 
-Home: https://scipp.github.io/essdiffraction/
+Home: https://scipp.github.io/ess/diffraction/
 
 Package license: BSD-3-Clause
 
 Summary: Diffraction data reduction for the European Spallation Source
 
-Development: https://github.com/scipp/essdiffraction
+Development: https://github.com/scipp/ess/tree/main/packages/essdiffraction
 
 Current build status
 ====================
